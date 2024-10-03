@@ -1,3 +1,9 @@
+Here's your updated README file with the live demo link added at the beginning, and with `npm start` replaced with `npm run dev`:
+
+---
+
+# Live Demo: [Todo Application](https://todo-app-maaz.netlify.app/)
+
 # Todo Application
 
 A simple Todo application built with React that allows users to add, toggle, and delete tasks. The tasks are saved in the browser's local storage, ensuring persistence across page reloads.
@@ -24,7 +30,7 @@ A simple Todo application built with React that allows users to add, toggle, and
 
 3. **Run the Application**:
    ```bash
-   npm start
+   npm run dev
    ```
    The application will start on `http://localhost:3000`.
 
@@ -79,4 +85,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Let me know if you need any additional information or further customization for the `README.md` file!
